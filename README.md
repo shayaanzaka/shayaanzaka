@@ -207,13 +207,13 @@ I've built production-grade data infrastructure at **Dentsu Global Services**, d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shayaanzaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.rickstaa.dev/api?username=shayaanzaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayaanzaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.rickstaa.dev/api/top-langs/?username=shayaanzaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shayaanzaka&theme=tokyonight&hide_border=true" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=shayaanzaka&theme=tokyonight&hide_border=true" width="50%"/>
 
 <br/><br/>
 
@@ -221,7 +221,7 @@ I've built production-grade data infrastructure at **Dentsu Global Services**, d
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayaanzaka&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shayaanzaka&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="95%"/>
 
 </div>
 
